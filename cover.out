@@ -1,0 +1,10 @@
+mode: set
+deploy/features/user/usecase/logic.go:15.42,19.2 1 1
+deploy/features/user/usecase/logic.go:21.75,23.16 2 1
+deploy/features/user/usecase/logic.go:30.2,30.20 1 1
+deploy/features/user/usecase/logic.go:23.16,24.92 1 1
+deploy/features/user/usecase/logic.go:27.3,27.70 1 1
+deploy/features/user/usecase/logic.go:24.92,26.4 1 1
+deploy/features/user/usecase/logic.go:33.56,35.16 2 1
+deploy/features/user/usecase/logic.go:40.2,40.12 1 1
+deploy/features/user/usecase/logic.go:35.16,38.3 2 1
